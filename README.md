@@ -16,9 +16,10 @@ representación con letras.
 Debes buscar cuál era su correspondencia original.
 Cada bloque de pulsaciones va separado por un guión.
 Si un bloque tiene más de un número, debe ser siempre el mismo.
-Ejemplo:
-Entrada: 6-666-88-777-33-3-33-888
-Salida: MOUREDEV
 
-Entrada: 44-666-999 33-7777 33-555 222-88-6-7-555-33 3-33 5-88-2-66
-Salida: HOY ES EL CUMPLE DE JUAN
+Ejemplo:
+**Entrada:** 6-666-88-777-33-3-33-888
+**Salida:** MOUREDEV
+
+**Entrada:** 44-666-999 33-7777 33-555 222-88-6-7-555-33 3-33 5-88-2-66
+**Salida:** HOY ES EL CUMPLE DE JUAN
